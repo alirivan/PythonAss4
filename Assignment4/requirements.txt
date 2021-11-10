@@ -1,0 +1,6 @@
+Flask_SQLAlchemy
+Flask
+pytest
+flaskr
+PyJWT
+selenium
